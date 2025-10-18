@@ -26,3 +26,7 @@ public class ReverseWords {
 	        System.out.println("Reversed sentence: " + reversed);
 	    }
 	}
+
+//OUTPUT
+//Enter a sentence: I work for iqm
+//Reversed sentence: iqm for work I

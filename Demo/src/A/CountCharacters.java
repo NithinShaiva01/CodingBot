@@ -16,3 +16,7 @@ public class CountCharacters {
 	        System.out.println("Total number of characters: " + totalChars);
 	    }
 	}
+
+//OUTPUT
+//Enter a string: input
+//Total number of characters: 5

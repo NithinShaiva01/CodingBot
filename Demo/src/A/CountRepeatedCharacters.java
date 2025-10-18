@@ -31,3 +31,8 @@ public class CountRepeatedCharacters {
 	        System.out.println("The character '" + ch + "' occurs " + count + " times (case-insensitive).");
 	    }
 	}
+
+//OUTPUT
+//Enter a string: LenovoL
+//Enter a character to find: L
+//The character 'l' occurs 2 times (case-insensitive).

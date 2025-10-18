@@ -35,3 +35,7 @@ package A;
 	        v.start(); // Calls Bike's start() at runtime
 	    }
 	}
+	
+//OUTPUT
+//Enter candidate name: NithinShaiva
+//Name after removing duplicates: NithnSav

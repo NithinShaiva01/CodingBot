@@ -25,3 +25,7 @@ public class DuplicateCharacters {
 	        System.out.println("Name after removing duplicates: " + result);
 	    }
 	}
+
+//OUTPUT
+//Enter candidate name: NithinShaiva
+//Name after removing duplicates: NithnSav
